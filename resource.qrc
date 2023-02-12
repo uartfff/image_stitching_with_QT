@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/myimages">
+        <file>images/copy.png</file>
+        <file>images/exit.png</file>
+        <file>images/help.png</file>
+        <file>images/info.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/resize.png</file>
+        <file>images/fit.png</file>
+        <file>images/setting.png</file>
+        <file>images/run.png</file>
+        <file>images/measure.png</file>
+        <file>images/bridge.png</file>
+        <file>images/neighborStitching.png</file>
+        <file>images/logo1.png</file>
+        <file>images/generatingData.png</file>
+        <file>images/kaishi.png</file>
+        <file>images/fanzhuan.png</file>
+        <file>images/window.png</file>
+    </qresource>
+</RCC>
